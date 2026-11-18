@@ -99,7 +99,7 @@ aws-sig-auth = { version = "0.51", optional = true }
 assert_cmd = "=2.0.7"
 cc = "1.0"
 chrono = "0.4.22"
-itertools = "0.10"
+itertools = "0.15"
 predicates = "=2.1.2"
 thirtyfour_sync = "0.27"
 once_cell = "1.16"
