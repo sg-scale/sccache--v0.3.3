@@ -107,7 +107,7 @@ serial_test = "0.9"
 wiremock = "0.5.15"
 
 [target.'cfg(unix)'.dependencies]
-daemonize = "0.4"
+daemonize = "0.5"
 
 [target.'cfg(windows)'.dependencies]
 parity-tokio-ipc = "0.9"
